@@ -14,6 +14,19 @@ I currently work mainly with **C#, .NET Core, React, and SQL Server**, contribut
 - **Tools:** Git, Bitbucket, Azure DevOps
 - **Ways of working:** Agile / Scrum
 
+### 🌟 Featured academic projects
+
+A few projects from my university and learning journey:
+
+| Project | What I built | Stack |
+|---|---|---|
+| [Clínica Online](https://github.com/macarenaferrero/TpClinicaFerrero) | Clinic management app with patient, specialist and admin roles, appointments, clinical records, statistics and Excel exports. | Angular · Firebase · TypeScript |
+| [Tabla Didáctica](https://github.com/macarenaferrero/TablaDidactica) | Interactive educational app for animals, numbers and colors, with Spanish, Portuguese and English audio. | Angular · Ionic · Firebase |
+| [Tu Sala de Juegos](https://github.com/macarenaferrero/tuSalaJuegosFerrero) | Mini-game hub with Hangman, Higher or Lower, trivia and chat. | Angular · Firebase |
+| [React Movie App](https://github.com/macarenaferrero/React.api) | Movie catalogue exercise with listing, create form and client-side navigation. | React · Vite · Axios |
+
+*These are academic projects, included to show the technologies and concepts I've explored hands-on.*
+
 ### 🌱 A little about me
 
 - 5+ years of professional experience in software development.
