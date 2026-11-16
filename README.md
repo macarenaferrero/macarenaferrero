@@ -31,8 +31,8 @@ A few projects from my university and learning journey:
 
 - 5+ years of professional experience in software development.
 - Hands-on experience building user interfaces with React since 2023.
-- Backend development with .NET Core and C# since 2022.
-- Técnica Universitaria en Programación (UTN).
+- Backend development with .NET and C# since 2021.
+- University Technician in Programming (UTN).
 - Mathematics Teacher, with a strong interest in problem-solving, clear communication, and continuous learning.
 
 ### 🚀 What I enjoy
